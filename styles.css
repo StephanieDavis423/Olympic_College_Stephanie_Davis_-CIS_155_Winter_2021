@@ -1,0 +1,38 @@
+@charset="utf-8";
+/*
+    The Mentalist Web Page Style Sheet
+    Author: Stephanie Davis
+    Date: 23JAN2021
+    Purpose: Layout Page
+    Filename: style.css
+*/
+/*Structural Styles*/
+html {
+    background-color: rgb(102, 153, 255);
+}
+h1 {
+    background-color: rgb(255, 255, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    border: black;
+    font-size: 3em;
+
+}
+body {
+    background-color: rgb(102, 153, 255;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 1em;
+}
+
+/*Navigation Styles-->*/
+nav a {
+    color: red;
+    background-color: white;
+    font-size: 1.5em;
+}
+
+
+
+
+

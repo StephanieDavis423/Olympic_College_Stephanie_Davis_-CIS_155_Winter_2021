@@ -1,0 +1,36 @@
+@charset "utf-8";
+/*
+    The Mentalist Web Page Layout
+    Author: Stephanie Davis
+    Date: 23JAN2021
+    Purpose: Layout Page
+    Filename: layout.css
+
+    This file contains the layout used for all pages
+   */
+p {
+    margin: 0px;
+    padding: 5px 20px 20px 20px;
+}
+body > h1 {
+    font: normal 1em;
+    padding-top: 15px;
+    text-align: center;
+}
+
+
+}
+
+/* Navigation List Styles */
+nav {
+    display: table;
+    width: 100%;
+}
+nav > ul {
+    display: table-row;
+}
+
+nav > ul > li {
+    display: table-cell;
+    text-align: center;
+}
